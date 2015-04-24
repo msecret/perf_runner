@@ -18,6 +18,7 @@
   "homepage": "https://github.com/msecret/perf_runner",
   "devDependencies": {
     "perf-hunter": "0.0.4",
+    "selenium-webdriver": "^2.45.1",
     "webdriverio": "^2.4.5"
   }
 }
